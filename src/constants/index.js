@@ -24,6 +24,8 @@ import {
   jobit,
   tripguide,
   threejs,
+  express,
+  canva,
 } from "../assets";
 
 export const navLinks = [
@@ -98,8 +100,8 @@ const technologies = [
     icon: mongodb,
   },
   {
-    name: "Three JS",
-    icon: threejs,
+    name: "Express JS",
+    icon: express,
   },
   {
     name: "git",
@@ -110,8 +112,8 @@ const technologies = [
     icon: figma,
   },
   {
-    name: "docker",
-    icon: docker,
+    name: "canva",
+    icon: canva,
   },
 ];
 
