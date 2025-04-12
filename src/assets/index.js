@@ -29,6 +29,9 @@ import starbucks from "./company/starbucks.png";
 import skillshaks from "./company/skillshaks.png";
 import tesla from "./company/tesla.png";
 
+import doctorhub from "./doctorhub.png";
+import eshop from "./eshop.png";
+import gamepedia from "./gamepedia.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
@@ -62,6 +65,9 @@ export {
   starbucks,
   skillshaks,
   tesla,
+  doctorhub,
+  eshop,
+  gamepedia,
   carrent,
   jobit,
   tripguide,

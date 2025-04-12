@@ -21,6 +21,9 @@ import {
   tesla,
   shopify,
   carrent,
+  doctorhub,
+  eshop,
+  gamepedia,
   jobit,
   tripguide,
   threejs,
@@ -201,9 +204,9 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Doctor Hub",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Web-based platform that enabling patients to book appointments, doctors to manage schedules and earnings, and admins to oversee operations, with features like profile management and Razorpay payments.",
     tags: [
       {
         name: "react",
@@ -218,50 +221,50 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
-    source_code_link: "https://github.com/",
+    image: doctorhub,
+    source_code_link: "https://github.com/tayyab-004/Doctor-Hub",
   },
   {
-    name: "Job IT",
+    name: "E Shop",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "ECommerce application that enabling seamless product browsing, user authentication, and secure PayPal payments. Features include an admin dashboard, responsive UI with Tailwind CSS and cart management.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "redux-toolkit",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "tailwind",
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
-    source_code_link: "https://github.com/",
+    image: eshop,
+    source_code_link: "https://github.com/tayyab-004/e-shop",
   },
   {
-    name: "Trip Guide",
+    name: "Game Pedia",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "GamePedia is a dynamic react web app using RAWG API, offering comprehensive game details, trailers, and screenshots. Features include dark/light mode toggle, personalized wishlists, favoriting and search filters.",
     tags: [
       {
-        name: "nextjs",
+        name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "typescript",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "chakra-ui",
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
+    image: gamepedia,
+    source_code_link: "https://gamepedia-tayyab.netlify.app/",
   },
 ];
 
