@@ -27,6 +27,7 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import skillshaks from "./company/skillshaks.png";
+import sundas from "./company/sundas.png";
 import tesla from "./company/tesla.png";
 
 import doctorhub from "./doctorhub.png";
@@ -64,6 +65,7 @@ export {
   shopify,
   starbucks,
   skillshaks,
+  sundas,
   tesla,
   doctorhub,
   eshop,
