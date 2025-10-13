@@ -197,7 +197,7 @@ const projects = [
       },
     ],
     image: doctorhub,
-    source_code_link: "https://github.com/tayyab-004/Doctor-Hub",
+    source_code_link: "https://doctor-hub-tayyab.vercel.app",
   },
   {
     name: "E Shop",
@@ -218,7 +218,7 @@ const projects = [
       },
     ],
     image: eshop,
-    source_code_link: "https://github.com/tayyab-004/e-shop",
+    source_code_link: "https://e-shop-tayyab.vercel.app",
   },
   {
     name: "Game Pedia",
@@ -239,7 +239,7 @@ const projects = [
       },
     ],
     image: gamepedia,
-    source_code_link: "https://gamepedia-tayyab.netlify.app/",
+    source_code_link: "https://gamepedia-tayyab.vercel.app",
   },
 ];
 
